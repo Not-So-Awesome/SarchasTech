@@ -6,10 +6,10 @@ Welcome to our witty project, where rants, ramblings, whinings, and complaints a
 Our project serves as a collection of comical and often satirical musings on the not-so-awesome aspects of technology and beyond. We encourage contributors to let their creativity flow as they share their tales of tech woe.
 
 ## Peer Review
-To maintain the quality and humor of our content, everything submitted here must pass a peer review. We've devised our own system using GitHub's features to ensure that only the wittiest and most entertaining complaints make the cut.
+To maintain the quality and humor of our content, everything submitted here must pass a peer review.
 
 ## Our Only Limit
-While we welcome a wide range of perspectives, we do have one limit: we won't entertain political views that don't align with our organization's left-leaning stance. Let's keep the discussions focused on tech and humor.
+While we welcome a wide range of perspectives, we do have one limit: we won't entertain some views that don't align with our organization's stance. For example, trashing open-source projects without validity is a no-go. Or defending radicalist or extremist organizations is also something that we don't allow.
 
 ## Contribution Guidelines
 1. Join our community of complainers by submitting your own witty tech complaints.
