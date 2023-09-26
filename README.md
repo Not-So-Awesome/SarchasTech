@@ -14,7 +14,7 @@ While we welcome a wide range of perspectives, we do have one limit: we won't en
 ## Contribution Guidelines
 1. Join our community of complainers by submitting your own witty tech complaints.
 2. Participate in the peer review process to help curate the best content.
-3. Follow our organization's rule: Don't be a dickhead.
+3. Follow our organization's rule: Don't be a ####head.
 
 ## License (To Be Decided)
 We are currently considering licensing options. However, please note that we do not support forks or the creation of alternate versions of our content without permission.
