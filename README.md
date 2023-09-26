@@ -1,6 +1,6 @@
-# Witty Project Name (Replace with Your Project's Name)
+# SarchasTech
 
-Welcome to our witty project, where rants, ramblings, whinings, and complaints about all things tech (and sometimes not) find their voice. This project is a part of the Not-So-Awesome organization, where we believe in embracing the humorous side of life's annoyances.
+Welcome to our project, where rants, ramblings, whinings, and complaints about all things tech (and sometimes not) find their voice. This project is a part of the Not-So-Awesome organization, where we believe in embracing the humorous side of life's annoyances.
 
 ## Project Purpose
 Our project serves as a collection of comical and often satirical musings on the not-so-awesome aspects of technology and beyond. We encourage contributors to let their creativity flow as they share their tales of tech woe.
