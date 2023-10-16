@@ -21,4 +21,4 @@ We are currently considering licensing options. However, please note that we do 
 
 ---
 
-**Note:** This project is a part of the Not-So-Awesome organization and shares its core values, including humor, satire, and a left-leaning perspective. The views expressed in individual submissions are those of the contributors and may not necessarily reflect the views of the organization.
+**Note:** This project is a part of the Not-So-Awesome organization and shares its core values, including humor, satire, and a left-leaning perspective (we are biased... deal with it...). The views expressed in individual submissions are those of the contributors and may not necessarily reflect the views of the organization.
