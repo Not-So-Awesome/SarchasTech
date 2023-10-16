@@ -1,0 +1,1 @@
+traumadump your complaints in a file in this folder. no structure necessary. someoneone else will create an article for it soon enough
